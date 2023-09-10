@@ -1,0 +1,64 @@
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AudioRecord.csprojAssemblyReference.cache
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AudioRecord.csproj.GenerateResource.cache
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AudioRecord.csproj.CoreCompileInputs.cache
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RecordAudio.exe.config
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RecordAudio.exe
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RecordAudio.pdb
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RecordAudio.Properties.Resources.resources
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RecordAudio.exe
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RecordAudio.pdb
+C:\Users\aura0\source\repos\WindowsFormsApp1 - 複製\WindowsFormsApp1\bin\Debug\RecordAudio.exe.config
+C:\Users\aura0\source\repos\WindowsFormsApp1 - 複製\WindowsFormsApp1\bin\Debug\RecordAudio.exe
+C:\Users\aura0\source\repos\WindowsFormsApp1 - 複製\WindowsFormsApp1\bin\Debug\RecordAudio.pdb
+C:\Users\aura0\source\repos\WindowsFormsApp1 - 複製\WindowsFormsApp1\obj\Debug\AudioRecord.csprojAssemblyReference.cache
+C:\Users\aura0\source\repos\WindowsFormsApp1 - 複製\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\aura0\source\repos\WindowsFormsApp1 - 複製\WindowsFormsApp1\obj\Debug\RecordAudio.Properties.Resources.resources
+C:\Users\aura0\source\repos\WindowsFormsApp1 - 複製\WindowsFormsApp1\obj\Debug\AudioRecord.csproj.GenerateResource.cache
+C:\Users\aura0\source\repos\WindowsFormsApp1 - 複製\WindowsFormsApp1\obj\Debug\AudioRecord.csproj.CoreCompileInputs.cache
+C:\Users\aura0\source\repos\WindowsFormsApp1 - 複製\WindowsFormsApp1\obj\Debug\RecordAudio.exe
+C:\Users\aura0\source\repos\WindowsFormsApp1 - 複製\WindowsFormsApp1\obj\Debug\RecordAudio.pdb
+C:\Users\aura0\source\repos\WindowsFormsApp1_測試\WindowsFormsApp1\bin\Debug\RecordAudio.exe.config
+C:\Users\aura0\source\repos\WindowsFormsApp1_測試\WindowsFormsApp1\bin\Debug\RecordAudio.exe
+C:\Users\aura0\source\repos\WindowsFormsApp1_測試\WindowsFormsApp1\bin\Debug\RecordAudio.pdb
+C:\Users\aura0\source\repos\WindowsFormsApp1_測試\WindowsFormsApp1\obj\Debug\AudioRecord.csprojAssemblyReference.cache
+C:\Users\aura0\source\repos\WindowsFormsApp1_測試\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\aura0\source\repos\WindowsFormsApp1_測試\WindowsFormsApp1\obj\Debug\RecordAudio.Properties.Resources.resources
+C:\Users\aura0\source\repos\WindowsFormsApp1_測試\WindowsFormsApp1\obj\Debug\AudioRecord.csproj.GenerateResource.cache
+C:\Users\aura0\source\repos\WindowsFormsApp1_測試\WindowsFormsApp1\obj\Debug\AudioRecord.csproj.CoreCompileInputs.cache
+C:\Users\aura0\source\repos\WindowsFormsApp1_測試\WindowsFormsApp1\obj\Debug\RecordAudio.exe
+C:\Users\aura0\source\repos\WindowsFormsApp1_測試\WindowsFormsApp1\obj\Debug\RecordAudio.pdb
+C:\Users\aura0\source\repos\WindowsFormsApp1_測試\WindowsFormsApp1\obj\Debug\RecordAudio.Form2.resources
+C:\Users\aura0\source\repos\WindowsFormsApp1_測試\WindowsFormsApp1\obj\Debug\RecordAudio.Form3.resources
+C:\Users\aura0\source\repos\WindowsFormsApp1_測試\WindowsFormsApp1\obj\Debug\RecordAudio.Form4.resources
+C:\Users\aura0\source\repos\WindowsFormsApp1_測試\WindowsFormsApp1\obj\Debug\RecordAudio.Form5.resources
+C:\Users\aura0\source\repos\AudioRecord_UI\WindowsFormsApp1\bin\Debug\RecordAudio.exe.config
+C:\Users\aura0\source\repos\AudioRecord_UI\WindowsFormsApp1\bin\Debug\RecordAudio.exe
+C:\Users\aura0\source\repos\AudioRecord_UI\WindowsFormsApp1\bin\Debug\RecordAudio.pdb
+C:\Users\aura0\source\repos\AudioRecord_UI\WindowsFormsApp1\obj\Debug\AudioRecord.csprojAssemblyReference.cache
+C:\Users\aura0\source\repos\AudioRecord_UI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\aura0\source\repos\AudioRecord_UI\WindowsFormsApp1\obj\Debug\RecordAudio.Form2.resources
+C:\Users\aura0\source\repos\AudioRecord_UI\WindowsFormsApp1\obj\Debug\RecordAudio.Form3.resources
+C:\Users\aura0\source\repos\AudioRecord_UI\WindowsFormsApp1\obj\Debug\RecordAudio.Form4.resources
+C:\Users\aura0\source\repos\AudioRecord_UI\WindowsFormsApp1\obj\Debug\RecordAudio.Form5.resources
+C:\Users\aura0\source\repos\AudioRecord_UI\WindowsFormsApp1\obj\Debug\RecordAudio.Properties.Resources.resources
+C:\Users\aura0\source\repos\AudioRecord_UI\WindowsFormsApp1\obj\Debug\AudioRecord.csproj.GenerateResource.cache
+C:\Users\aura0\source\repos\AudioRecord_UI\WindowsFormsApp1\obj\Debug\AudioRecord.csproj.CoreCompileInputs.cache
+C:\Users\aura0\source\repos\AudioRecord_UI\WindowsFormsApp1\obj\Debug\RecordAudio.exe
+C:\Users\aura0\source\repos\AudioRecord_UI\WindowsFormsApp1\obj\Debug\RecordAudio.pdb
+C:\Users\aura0\source\repos\AudioRecord_UI\WindowsFormsApp1\obj\Debug\RecordAudio.Form6.resources
+C:\Users\aura0\source\repos\AudioRecord_UI\AudioRecord\obj\Debug\AudioRecord.csprojAssemblyReference.cache
+C:\Users\aura0\source\repos\AudioRecord_UI\AudioRecord\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\aura0\source\repos\AudioRecord_UI\AudioRecord\obj\Debug\RecordAudio.Form2.resources
+C:\Users\aura0\source\repos\AudioRecord_UI\AudioRecord\obj\Debug\RecordAudio.Form3.resources
+C:\Users\aura0\source\repos\AudioRecord_UI\AudioRecord\obj\Debug\RecordAudio.Form4.resources
+C:\Users\aura0\source\repos\AudioRecord_UI\AudioRecord\obj\Debug\RecordAudio.Form5.resources
+C:\Users\aura0\source\repos\AudioRecord_UI\AudioRecord\obj\Debug\RecordAudio.Form6.resources
+C:\Users\aura0\source\repos\AudioRecord_UI\AudioRecord\obj\Debug\AudioRecord.csproj.GenerateResource.cache
+C:\Users\aura0\source\repos\AudioRecord_UI\AudioRecord\obj\Debug\AudioRecord.csproj.CoreCompileInputs.cache
+C:\Users\aura0\source\repos\AudioRecord_UI\AudioRecord\obj\Debug\AudioRecord.Properties.Resources.resources
+C:\Users\aura0\source\repos\AudioRecord_UI\AudioRecord\bin\Debug\AudioRecord.exe.config
+C:\Users\aura0\source\repos\AudioRecord_UI\AudioRecord\bin\Debug\AudioRecord.exe
+C:\Users\aura0\source\repos\AudioRecord_UI\AudioRecord\bin\Debug\AudioRecord.pdb
+C:\Users\aura0\source\repos\AudioRecord_UI\AudioRecord\obj\Debug\AudioRecord.exe
+C:\Users\aura0\source\repos\AudioRecord_UI\AudioRecord\obj\Debug\AudioRecord.pdb

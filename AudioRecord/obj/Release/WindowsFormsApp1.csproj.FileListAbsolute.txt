@@ -1,0 +1,15 @@
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\AudioRecord.exe.config
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\AudioRecord.exe.manifest
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\AudioRecord.application
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\AudioRecord.exe
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\AudioRecord.pdb
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\AudioRecord.Properties.Resources.resources
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\AudioRecord.TrustInfo.xml
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\AudioRecord.exe.manifest
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\AudioRecord.application
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\AudioRecord.exe
+C:\Users\aura0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\AudioRecord.pdb
